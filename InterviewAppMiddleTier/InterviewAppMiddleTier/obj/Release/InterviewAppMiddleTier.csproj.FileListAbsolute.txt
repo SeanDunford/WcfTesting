@@ -1,0 +1,4 @@
+Z:\GitProjects\win8Rand\InterviewAppMiddleTier\InterviewAppMiddleTier\bin\InterviewAppMiddleTier.dll
+Z:\GitProjects\win8Rand\InterviewAppMiddleTier\InterviewAppMiddleTier\bin\InterviewAppMiddleTier.pdb
+Z:\GitProjects\win8Rand\InterviewAppMiddleTier\InterviewAppMiddleTier\obj\Release\InterviewAppMiddleTier.dll
+Z:\GitProjects\win8Rand\InterviewAppMiddleTier\InterviewAppMiddleTier\obj\Release\InterviewAppMiddleTier.pdb

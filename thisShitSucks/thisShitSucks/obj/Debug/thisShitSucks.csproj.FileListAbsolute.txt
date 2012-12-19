@@ -1,0 +1,4 @@
+Z:\GitProjects\win8Rand\thisShitSucks\thisShitSucks\bin\thisShitSucks.dll
+Z:\GitProjects\win8Rand\thisShitSucks\thisShitSucks\bin\thisShitSucks.pdb
+Z:\GitProjects\win8Rand\thisShitSucks\thisShitSucks\obj\Debug\thisShitSucks.dll
+Z:\GitProjects\win8Rand\thisShitSucks\thisShitSucks\obj\Debug\thisShitSucks.pdb
